@@ -35,7 +35,7 @@
     to note my current public IP. This gave me a baseline to compare once the VPN was activated.
     <br /><br />
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=Baseline+Public+IP" alt="Baseline IP check" width="600" />
+      <img src="https://i.imgur.com/FjHfcWZ.png" alt="Baseline IP check" width="600" />
       <br />
       <em>Figure VPN.1 – Initial public IP before VPN use.</em>
     </p>
@@ -48,7 +48,7 @@
     (free tier for this demo) and downloaded the Windows client installer.
     <br /><br />
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=ProtonVPN+Website" alt="ProtonVPN site" width="600" />
+      <img src="https://i.imgur.com/l4T1TjO.png" alt="ProtonVPN site" width="600" />
       <br />
       <em>Figure VPN.2 – Proton VPN official website.</em>
     </p>
@@ -61,7 +61,8 @@
     The dashboard displays available servers around the world.
     <br /><br />
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=ProtonVPN+Install" alt="Proton VPN installation" width="600" />
+      <img src="https://i.imgur.com/R7ehCke.png" alt="Proton VPN installation" width="600" />
+      <img src="https://i.imgur.com/gFVKkQT.png" alt="Proton VPN installation" width="600" />
       <br />
       <em>Figure VPN.3 – Proton VPN client post-installation.</em>
     </p>
@@ -74,11 +75,11 @@
     This helps detect changes once I connect to a VPN server in a different location.
     <br /><br />
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=Google+Before+VPN" alt="Google pre-VPN" width="600" />
+      <img src="https://i.imgur.com/wDt3Gl3.png" alt="Google pre-VPN" width="600" />
       <br />
       <em>Figure VPN.4 – Google’s page prior to VPN usage.</em>
       <br /><br />
-      <img src="https://via.placeholder.com/600x350.png?text=Disney+Before+VPN" alt="Disney pre-VPN" width="600" />
+      <img src="https://i.imgur.com/NOluxy6.png" alt="Disney pre-VPN" width="600" />
       <br />
       <em>Figure VPN.5 – Disney’s site looks standard without VPN changes.</em>
     </p>
@@ -92,11 +93,11 @@
     often in the assigned server’s location.
     <br /><br />
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=ProtonVPN+Connected" alt="Proton VPN connected" width="600" />
+      <img src="https://i.imgur.com/k01wEiw.png" alt="Proton VPN connected" width="600" />
       <br />
       <em>Figure VPN.6 – Confirming connection to a foreign server.</em>
       <br /><br />
-      <img src="https://via.placeholder.com/600x350.png?text=New+Public+IP" alt="New IP from VPN" width="600" />
+      <img src="https://i.imgur.com/tFo0EcY.png" alt="New IP from VPN" width="600" />
       <br />
       <em>Figure VPN.7 – My public IP now shows the VPN’s location.</em>
     </p>
@@ -105,29 +106,18 @@
 
   <li>
     <strong>Websites After VPN</strong><br />
-    With the VPN active, I reloaded <code>google.com</code> and <code>disney.com</code>. 
+    Finally, with the VPN active, I reloaded <code>google.com</code> and <code>disney.com</code>. 
     Depending on the server location, I occasionally saw content in another language or different 
-    region-based services.
+    region-based services. This highlights how easily the VPN changes your perceived location. 
     <br /><br />
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=Google+After+VPN" alt="Google after VPN" width="600" />
+      <img src="https://i.imgur.com/Ijz8vyx.png" alt="Disney after VPN" width="600" />
+      <img src="https://i.imgur.com/cvpiAqe.png" alt="Google after VPN" width="600" />
       <br />
       <em>Figure VPN.8 – Google potentially serving a localized site.</em>
     </p>
   </li>
   <br />
-
-  <li>
-    <strong>Switching VPN Servers for More Tests</strong><br />
-    Finally, I connected to multiple other servers (e.g., Europe, Asia) to verify each new IP 
-    in <em>whatismyipaddress.com</em>. This highlights how easily the VPN changes your perceived location.
-    <br /><br />
-    <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=Switching+VPN+Locations" alt="Changing VPN servers" width="600" />
-      <br />
-      <em>Figure VPN.9 – Testing different geographical server endpoints.</em>
-    </p>
-  </li>
 </ol>
 
 <hr />
